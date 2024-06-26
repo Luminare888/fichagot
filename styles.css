@@ -96,6 +96,3 @@ a {
 .TabFooter h5 { font-family:var(--fuente1); font-size:25px; line-height:50px; color:var(--accent2); font-style:normal; font-weight:200;}
 .TabFooter strong { color:var(--accent2); padding-right:10px; font-weight:800;}
 .TabFooter br { display:block; }
-
-.credi { position: relative; margin-top: -15px; width: 30px; font-size: 15px; height: 15px; margin-left: 5px; overflow: hidden;}
-.credi a { color:var(--dark2);}
